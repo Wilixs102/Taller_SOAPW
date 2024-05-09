@@ -1,0 +1,7 @@
+C:\Users\Wilixs\Desktop\IntegracionSistemas_TallerSoap-main\TallerSoap\bin\TallerSoap.dll.config
+C:\Users\Wilixs\Desktop\IntegracionSistemas_TallerSoap-main\TallerSoap\bin\TallerSoap.dll
+C:\Users\Wilixs\Desktop\IntegracionSistemas_TallerSoap-main\TallerSoap\bin\TallerSoap.pdb
+C:\Users\Wilixs\Desktop\IntegracionSistemas_TallerSoap-main\TallerSoap\obj\Debug\TallerSoap.csproj.AssemblyReference.cache
+C:\Users\Wilixs\Desktop\IntegracionSistemas_TallerSoap-main\TallerSoap\obj\Debug\TallerSoap.csproj.CoreCompileInputs.cache
+C:\Users\Wilixs\Desktop\IntegracionSistemas_TallerSoap-main\TallerSoap\obj\Debug\TallerSoap.dll
+C:\Users\Wilixs\Desktop\IntegracionSistemas_TallerSoap-main\TallerSoap\obj\Debug\TallerSoap.pdb

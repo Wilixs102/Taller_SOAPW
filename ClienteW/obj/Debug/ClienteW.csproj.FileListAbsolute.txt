@@ -1,0 +1,10 @@
+C:\Users\Wilixs\Desktop\IntegracionSistemas_TallerSoap-main\ClienteW\bin\Debug\ClienteW.exe.config
+C:\Users\Wilixs\Desktop\IntegracionSistemas_TallerSoap-main\ClienteW\bin\Debug\ClienteW.exe
+C:\Users\Wilixs\Desktop\IntegracionSistemas_TallerSoap-main\ClienteW\bin\Debug\ClienteW.pdb
+C:\Users\Wilixs\Desktop\IntegracionSistemas_TallerSoap-main\ClienteW\obj\Debug\ClienteW.csproj.AssemblyReference.cache
+C:\Users\Wilixs\Desktop\IntegracionSistemas_TallerSoap-main\ClienteW\obj\Debug\ClienteW.Form1.resources
+C:\Users\Wilixs\Desktop\IntegracionSistemas_TallerSoap-main\ClienteW\obj\Debug\ClienteW.Properties.Resources.resources
+C:\Users\Wilixs\Desktop\IntegracionSistemas_TallerSoap-main\ClienteW\obj\Debug\ClienteW.csproj.GenerateResource.cache
+C:\Users\Wilixs\Desktop\IntegracionSistemas_TallerSoap-main\ClienteW\obj\Debug\ClienteW.csproj.CoreCompileInputs.cache
+C:\Users\Wilixs\Desktop\IntegracionSistemas_TallerSoap-main\ClienteW\obj\Debug\ClienteW.exe
+C:\Users\Wilixs\Desktop\IntegracionSistemas_TallerSoap-main\ClienteW\obj\Debug\ClienteW.pdb
